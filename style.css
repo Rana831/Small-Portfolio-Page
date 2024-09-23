@@ -1,0 +1,52 @@
+.navbarStyle{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.navColor{
+    color: #2c4c84 !important;
+}
+.textStyleBrand{
+    font-size: 50px !important;
+}
+
+.cardsStyle img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+.protoText,.aboutText,.contactText{
+    color: #f7b4a7;
+    font-size: 70px;
+    font-weight: bold;
+}
+.aboutDiv{
+    height: 400px;
+    background-color: #2c4c84 !important;
+}
+.aboutCardsStyle{
+    background-color: #2c4c84 !important;
+    color: #f7b4a7;
+    border: none !important;
+}
+.submitBtn{
+    color: #2c4c84 !important;
+    background-color: #f7b4a7 !important;
+    border: none !important;
+}
+.footerStyle{
+    background-color: #2c4c84 !important;
+}
+.copyRight{
+    background-color: #2c4c84 !important;
+    color: #f7b4a7;
+}
+.iconsStyle i{
+    background-color: #2c4c84 !important;
+    color: #f7b4a7 !important;
+    font-size: 25px;
+}
+.formText{
+    color: #f7b4a7 !important;
+    font-size: 25px;
+}
+
